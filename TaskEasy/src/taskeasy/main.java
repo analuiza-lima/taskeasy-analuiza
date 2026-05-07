@@ -8,13 +8,13 @@ package taskeasy;
  *
  * @author aluno
  */
-public class TaskEasy {
+public class main {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Bem-vindo ao sistema TaskEasy!");
     }
     
 }
